@@ -1,0 +1,15 @@
+celery~=4.3
+Pydantic[email]==1.2
+fastapi==0.44.0
+passlib[bcrypt]
+tenacity==6.0.0
+requests
+emails
+uvicorn
+gunicorn
+pyjwt
+python-multipart
+jinja2
+psycopg2-binary
+alembic
+SQLAlchemy==1.3.11
